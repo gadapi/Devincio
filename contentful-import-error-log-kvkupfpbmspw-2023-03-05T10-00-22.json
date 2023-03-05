@@ -1,0 +1,33 @@
+[
+  {
+    "ts": "2023-03-05T15:00:23.436Z",
+    "level": "error",
+    "error": {
+      "originalError": {
+        "name": "AccessTokenInvalid",
+        "message": "{\n  \"status\": 403,\n  \"statusText\": \"Forbidden\",\n  \"message\": \"The access token you sent could not be found or is invalid.\",\n  \"details\": {},\n  \"request\": {\n    \"url\": \"/spaces/kvkupfpbmspw\",\n    \"headers\": {\n      \"Accept\": \"application/json, text/plain, */*\",\n      \"Content-Type\": \"application/vnd.contentful.management.v1+json\",\n      \"X-Contentful-User-Agent\": \"app contentful.import/8.5.4; feature library-import; sdk contentful-management.js/10.19.1; platform node.js/v18.14.2; os Windows/v18.14.2;\",\n      \"CF-Sequence\": \"4e38b82d-0fbd-45bb-a338-016688a9280e\",\n      \"Authorization\": \"Bearer ..._UT_M\",\n      \"user-agent\": \"node.js/v18.14.2\",\n      \"Accept-Encoding\": \"gzip\"\n    },\n    \"method\": \"get\"\n  },\n  \"requestId\": \"657beeb9-135c-4a1c-9d45-618821cbf08c\"\n}"
+      },
+      "data": {
+        "status": 403,
+        "statusText": "Forbidden",
+        "message": "The access token you sent could not be found or is invalid.",
+        "details": {
+        },
+        "request": {
+          "url": "/spaces/kvkupfpbmspw",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.import/8.5.4; feature library-import; sdk contentful-management.js/10.19.1; platform node.js/v18.14.2; os Windows/v18.14.2;",
+            "CF-Sequence": "4e38b82d-0fbd-45bb-a338-016688a9280e",
+            "Authorization": "Bearer ..._UT_M",
+            "user-agent": "node.js/v18.14.2",
+            "Accept-Encoding": "gzip"
+          },
+          "method": "get"
+        },
+        "requestId": "657beeb9-135c-4a1c-9d45-618821cbf08c"
+      }
+    }
+  }
+]
