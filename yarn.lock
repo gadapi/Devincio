@@ -1116,6 +1116,16 @@
   resolved "https://registry.yarnpkg.com/@fontsource/dm-sans/-/dm-sans-4.5.9.tgz#a48f9c815728ebb47e1c58e5176a9d4aa6cb25ea"
   integrity sha512-qaFvSBJhoeley1A9myRUUuHbm9sz7ADyC2WodezBzdFSPs2VD/p5WPPwtpVE8b1SglQrOPAnxA7s3fH5zOtiMQ==
 
+"@fontsource/julius-sans-one@^4.5.10":
+  version "4.5.10"
+  resolved "https://registry.yarnpkg.com/@fontsource/julius-sans-one/-/julius-sans-one-4.5.10.tgz#53a5aa73f9367e26d1e57b2897e796c228fc480b"
+  integrity sha512-MguRg8MYiVvspNCK19xVm3qUqW2qQzckCKQlRPghOHjREGGFNF5S5oC0+d5jzCzXTB0SLD/vwM01V0xFGKmuMQ==
+
+"@fontsource/montserrat@^4.5.14":
+  version "4.5.14"
+  resolved "https://registry.yarnpkg.com/@fontsource/montserrat/-/montserrat-4.5.14.tgz#5f4bfc5e7f234a986d94d9e7e7193f852e6971e3"
+  integrity sha512-fTvrteVzuFUePhr4QYBGoK8G/YHLJ3IhF1HhKg0AxcFvZajJT7rM7ULdmKLSd2PkX44R3aaFZq1zDbmjbGGI+w==
+
 "@gatsbyjs/parcel-namer-relative-to-cwd@2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@gatsbyjs/parcel-namer-relative-to-cwd/-/parcel-namer-relative-to-cwd-2.0.0.tgz#6a633358b2cdcbe6f28605885933c0d2f4f7e18e"
