@@ -46,9 +46,9 @@ const fontWeights = {
 }
 
 const fonts = {
-  text: '"Montserrat", sans-serif',
-  heading: '"Julius Sans One", sans-serif',  
-  mono: "DM Mono, Menlo, monospace",
+  text: '"Montseurrat", sans-serif',
+  heading: '"Inter", sans-serif',  
+  mono: '"Inter", sans-serif',
 }
 
 const lineHeights = {
