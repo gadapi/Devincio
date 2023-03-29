@@ -43,6 +43,7 @@ const fontWeights = {
   semibold: "600",
   bold: "700",
   extrabold: "800",
+  superbold: "900",
 }
 
 const fonts = {
