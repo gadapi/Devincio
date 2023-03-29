@@ -10,10 +10,11 @@ export default function AboutHero(props) {
       <Container>
         <SuperHeading className={styles.aboutHeroHeader}>
           {props.heading}
-        </SuperHeading>
-        {props.text && (
+          {props.text && (
           <Text className={styles.aboutHeroText}>{props.text}</Text>
         )}
+        </SuperHeading>
+      
       </Container>
       <Container width="wide">
         {props.image && (
