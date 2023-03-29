@@ -46,7 +46,7 @@ const fontWeights = {
 }
 
 const fonts = {
-  text: '"Montseurrat", sans-serif',
+  text:  '"Inter", sans-serif',
   heading: '"Inter", sans-serif',  
   mono: '"Inter", sans-serif',
 }
