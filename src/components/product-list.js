@@ -23,7 +23,7 @@ function Product(props) {
           size="large"
         />
       )}
-      <Subhead>{props.heading}</Subhead>
+      <Kicker>{props.heading}</Kicker>
       <Text>{props.text}</Text>
       <LinkList links={props.links} />
     </Box>
