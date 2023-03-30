@@ -3,7 +3,7 @@ import * as React from "react"
 export default function GatsbyContentfulLogo() {
   return (
     <svg
-      width="250"
+      width="200"
       height="124"
       viewBox="0 0 1848.000000 457.000000"
       fill="#000000"
