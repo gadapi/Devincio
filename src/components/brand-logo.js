@@ -3,14 +3,14 @@ import * as React from "react"
 export default function GatsbyContentfulLogo() {
   return (
     <svg
-      width="152"
-      height="90"
+      width="250"
+      height="124"
       viewBox="0 0 1848.000000 457.000000"
       fill="#000000"
       xmlns="http://www.w3.org/2000/svg"
     >
    <g transform="translate(0.000000,457.000000) scale(0.100000,-0.100000)"
-fill="#fff" stroke="#fff">
+fill="#fff" stroke="3">
 <path d="M0 2285 l0 -2285 9240 0 9240 0 0 2285 0 2285 -9240 0 -9240 0 0
 -2285z m9330 2131 c0 -2 -26 -29 -57 -60 -35 -34 -67 -56 -80 -56 -13 0 -23 2
 -23 5 0 3 16 30 36 60 35 53 39 55 80 55 24 0 44 -2 44 -4z m-2585 -596 c81
