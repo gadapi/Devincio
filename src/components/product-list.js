@@ -33,7 +33,7 @@ function Product(props) {
 export default function ProductList(props) {
   return (
     <Section>
-      <Container>
+      <Container >
         <Box center paddingY={4}>
           <Heading>
             {props.kicker && <Kicker>{props.kicker}</Kicker>}
@@ -41,7 +41,7 @@ export default function ProductList(props) {
           </Heading>
           {props.text && <Text>{props.text}</Text>}
         </Box>
-        <FlexList gap={4} variant="responsive">
+        <FlexList gap={4} variant="center">
           {props.content.map((product) => (
             <li key={product.id}>
               <Product {...product} />
