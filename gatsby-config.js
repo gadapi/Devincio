@@ -32,8 +32,8 @@ module.exports = {
         short_name: "Devincio",
         start_url: "/",
         // These can be imported once ESM support lands
-        background_color: "#eb3237",
-        theme_color: "#959495",
+        background_color: "#000",
+        theme_color: "#000",
         icon: "src/favicon.png",
       },
     },

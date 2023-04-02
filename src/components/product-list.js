@@ -7,7 +7,6 @@ import {
   Text,
   Kicker,
   Heading,
-  Subhead,
   Box,
   Icon,
   LinkList,
